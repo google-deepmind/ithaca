@@ -1,0 +1,88 @@
+Attica_1700;25595
+Egypt and Nubia_1694;11654
+Ionia_1688;10566
+Caria _1682;6214
+Megaris, Oropia, and Boiotia (IG VII) _1691;5576
+Macedonia _1485;5552
+Italy, incl. Magna Graecia_1689;5365
+Thrace and Moesia Inferior _1687;5257
+Rhodes and S. Dodecanese (IG XII,1) _1627;4957
+Cos and Calymna (IG XII,4)_1646;4487
+Phrygia_1679;4278
+Delphi _1272;4159
+unspecified subregion_1681;4056
+Sicily, Sardinia, and neighboring Islands_1686;4041
+unspecified subregion_1684;3687
+Lydia_1654;3621
+Thessaly (IG IX,2) _899;3586
+Syria and Phoenicia_1676;3444
+Delos (IG XI and ID) _1672;3431
+Mysia [Kaïkos], Pergamon_1674;3301
+Pisidia_1671;3110
+Arabia_1668;3064
+Scythia Minor _1675;2842
+Lycia_1669;2687
+Crete _474;2652
+Cilicia and Isauria_1662;2423
+Epeiros, Illyria, and Dalmatia _1463;2380
+Bithynia_1666;2253
+Samos (IG XII,6) _1665;1853
+Pamphylia_1651;1797
+Euboia (IG XII,9) _1653;1792
+Galatia_1663;1772
+Lycaonia_1661;1693
+Saronic Gulf, Corinthia, and the Argolid (IG IV) _1667;1620
+Lakonia and Messenia (IG V,1) _1658;1575
+Doric Sporades (IG XII,3) _1547;1529
+Cyclades, excl. Delos (IG XII,5) _1585;1526
+Mysia_1656;1475
+Phokis, Lokris, Aitolia, Akarnania, and Ionian Islands (IG IX,1) _1659;1449
+Pontus and Paphlagonia_1377;1369
+Palaestina_1657;1363
+Epidauria (IG IV²,1) _1643;1119
+Northern Aegean (IG XII,8) _1596;1099
+Elis _1647;1069
+Lesbos, Nesos, and Tenedos (IG XII,2) _1554;870
+Eleusis_1640;846
+Rhamnous_1639;774
+Mesopotamia_1626;740
+Cyrenaïca_1633;730
+Arkadia (IG V,2) _1632;702
+Troas_1631;583
+Amorgos and vicinity (IG XII,7) _1443;565
+Chios _1624;548
+Caria, Rhodian Peraia _1617;518
+Gallia_1635;451
+Aeolis_1012;396
+Dacia _1673;357
+Cappadocia_1607;344
+Achaia_1621;308
+Commagene_1590;229
+Africa Proconsularis_1589;189
+Hispania and Lusitania_1595;160
+Raetia, Noricum, and Pannonia _1574;116
+Moesia Superior _1641;116
+Bactria, Sogdiana_1558;104
+Babylonia_1535;77
+Tripolitania_1578;68
+Mysia [Upper Kaïkos] / Lydia_1482;50
+Susiana_1480;45
+Unknown Provenance_1477;43
+Germania_1502;42
+Armenia _1497;41
+Arabian Peninsula_1453;34
+unspecified subregion_1439;27
+Britannia_1445;22
+Doris_1434;19
+Iberia and Colchis_1421;19
+Arachosia, Drangiana_1417;17
+Persis_1399;15
+Mauretania Caesariensis_1381;14
+Media_1324;12
+Byzacena_1474;9
+Mauretania Tingitana_1090;4
+Numidia_1147;3
+unspecified subregion_885;2
+Hyrcania, Parthia_1146;2
+Osrhoene_634;1
+Carmania_881;1

@@ -1,0 +1,15 @@
+Asia Minor_1702;48510
+Attica (IG I-III)_1701;27215
+Aegean Islands, incl. Crete (IG XI-[XIII])_1699;25309
+Central Greece (IG VII-IX)_1698;14789
+Egypt, Nubia and Cyrenaïca_1695;12384
+Sicily, Italy, and the West (IG XIV)_1696;10108
+Greater Syria and the East_1693;9191
+Thrace and the Lower Danube (IG X)_1697;8456
+Northern Greece (IG X)_1692;7932
+Peloponnesos (IG IV-[VI])_1690;6393
+Cyprus ([IG XV])_1680;4056
+North Shore of the Black Sea_1683;3687
+North Africa_1614;287
+Upper Danube_1644;232
+Unknown Provenances_884;2

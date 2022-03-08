@@ -1,0 +1,8 @@
+absl-py==0.13.0
+chex==0.0.8
+flax==0.3.6
+dm-haiku==0.0.5
+jax==0.2.21
+ml-collections==0.1.1
+numpy>=1.18.0
+tqdm>=4.62.2
