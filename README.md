@@ -86,8 +86,11 @@ Then, download the model via
 curl --output checkpoint.pkl https://storage.googleapis.com/ithaca-resources/models/checkpoint_v1.pkl
 ```
 
-An example of using the library can be run via `sh python inference_example.py
---input_file=example_input.txt` which will run restoration and attribution on
+An example of using the library can be run via
+```sh
+python inference_example.py --input_file=example_input.txt
+```
+which will run restoration and attribution on
 the text in `example_input.txt`.
 
 To run it with different input text, run
@@ -119,7 +122,7 @@ metadata, as well as further details on the train, validation and test splits
 are available at [I.PHI dataset](https://github.com/sommerschield/iphi).
 
 ### Training Ithaca
-See train/README.md for instructions.
+See `train/README.md` for instructions.
 
 
 ## License
