@@ -434,7 +434,7 @@ class Experiment(experiment.AbstractExperiment):
     return summary
 
   def _initialize_eval(self):
-    self._eval_input = jl_utils.py_prefetch(self._build_eval_input)
+    self._eval_input = self._build_eval_input()
 
   def _build_eval_input(self):
     """Builds the evaluation input pipeline."""
@@ -448,7 +448,7 @@ class Experiment(experiment.AbstractExperiment):
           dataset_file=dataset_file,
           mode=self.config.evaluation.mode)
 
-    return iter(tfds.as_numpy(ds))
+    return tfds.as_numpy(ds)
 
   def _eval_batch(self, params, batch, rng):
     """Evaluates a batch."""
@@ -615,7 +615,7 @@ class Experiment(experiment.AbstractExperiment):
           f.write(model_log_pkl_bz2)
 
     # Converting to numpy here allows us to reset the generator
-    for batch in self._eval_input():
+    for batch in self._eval_input:
       # Make sure that the input has batch_dim=1
       assert batch['text_char'].shape[0] == 1
 
