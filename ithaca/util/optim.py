@@ -161,7 +161,7 @@ def adaptive_grad_clip(clipping, eps=1e-3) -> GradientTransformation:
     # Maximum allowable norm
     max_norm = jax.tree_map(lambda x: clipping * jnp.maximum(x, eps), p_norm)
     # If grad norm > clipping * param_norm, rescale
-    updates = jax.tree_multimap(unitwise_clip, g_norm, max_norm, updates)
+    updates = jax.tree_map(unitwise_clip, g_norm, max_norm, updates)
     return updates, state
 
   return GradientTransformation(init_fn, update_fn)
