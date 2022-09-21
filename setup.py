@@ -27,7 +27,7 @@ setuptools.setup(
     name='ithaca',
     author='Ithaca team',
     author_email='deepmind-ithaca-team@google.com',
-    version='0.1.1',
+    version='0.1.0',
     license='Apache License, Version 2.0',
     description='Ithaca library for ancient text restoration and attribution.',
     long_description=long_description,
@@ -40,8 +40,7 @@ setuptools.setup(
             'optax',
             'jaxline==0.0.5',
             'tensorflow-datasets',
-        ],
-        'gpu': ['jaxlib==0.1.69+cuda111',]
+        ]
     },
     classifiers=[
         'Development Status :: 4 - Beta',
