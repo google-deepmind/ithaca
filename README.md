@@ -50,7 +50,7 @@ the most significant periods in human history.
 ## References
 
 -   [Nature article](https://www.nature.com/articles/s41586-022-04448-z)
--   [DeepMind blog](https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca)
+-   [DeepMind blog](https://www.deepmind.com/blog/predicting-the-past-with-ithaca)
 
 When using any of this project's source code, please cite:
 
