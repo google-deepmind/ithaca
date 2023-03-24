@@ -18,7 +18,7 @@ https://github.com/google-research/long-range-arena/tree/main/lra_benchmarks/mod
 """
 
 # pylint: disable=attribute-defined-outside-init,g-bare-generic
-from typing import Any, Callable, Iterable, Optional
+from typing import Any, Callable, Optional, Sequence
 
 from flax import linen as nn
 from jax import lax
@@ -28,7 +28,7 @@ import numpy as np
 
 PRNGKey = Any
 Array = Any
-Shape = Iterable[int]
+Shape = Sequence[int]
 Dtype = Any  # this could be a real type?
 
 ACTIVATION_FN_DICT = {
