@@ -156,13 +156,13 @@ def _prepare_text(
     Tuple of cleaned text (str), padded text (str), char indices (array of batch
     size 1), word indices (array of batch size 1), text length (list of size 1)
   """
-  text = re.sub(r'\s+', ' ', text.strip())
+  text = re.sub(r'\s+', ' ', text.strip().lower())
   text = util_text.strip_accents(text)
 
   if len(text) < MIN_TEXT_LEN:
     raise ValueError('Input text too short.')
 
-  if len(text) >= TEXT_LEN - 1:
+  if len(text) >= TEXT_LEN:
     raise ValueError('Input text too long.')
 
   text_sos = alphabet.sos + text
